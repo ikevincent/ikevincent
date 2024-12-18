@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**ikevincent/ikevincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ike Thompson
 
-Here are some ideas to get you started:
+Hello, GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Ike Thompson, a student at Brigham Young University-Idaho interested in Web Design and Development. I was born and raised in the Seattle area and I love it here. Welcome to my GitHub profile!
+
+## About Me
+
+- I'm currently a semester away from graduating and I'm just finishing some final courses and getting ready to start my Capstone project.
+- Ultimately, I'd like to use the skills I've learned to work for myself in some capacity. I love brand design and would love to start working with clients to create brand identities and websites.
+
+## Technologies and Tools
+
+- Proficient in: JavaScript, HTML/CSS, Python, SQL, PHP, NodeJS, MongoDB
+- Skills: <Any Other Skills or Tools You Want to Highlight>
+
+## Let's Connect!
+
+- LinkedIn: www.linkedin.com/in/ike-thompson
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
