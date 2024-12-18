@@ -13,7 +13,7 @@ I'm Ike Thompson, a student at Brigham Young University-Idaho interested in Web 
 ## Technologies and Tools
 
 - Proficient in: JavaScript, HTML/CSS, Python, SQL, PHP, NodeJS, MongoDB
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Skills: Graphic Design, UX/UI Design
 
 ## Let's Connect!
 
